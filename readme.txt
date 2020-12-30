@@ -9,3 +9,5 @@ Git tracks changes of files.
 I can connect local git with github.
 
 Creating a new branch is quick and simple.
+
+Fast forward
